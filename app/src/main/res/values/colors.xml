@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="tab_selected_strip">#00b0ff</color>
+    <color name="tab_background">#3f51b5</color>
+
+    <color name="light_red">#FF7373</color>
+    <color name="light_green">#60D6A9</color>
+    <color name="light_blue">#65A5D1</color>
+
+
+</resources>
